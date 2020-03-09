@@ -1,0 +1,24 @@
+In this titanic dataset have to predict how many passengers are survived or not,here used machine learning to create a model 
+that predicts which passengers survived the Titanic shipwreck.
+
+Data Handling:-
+
+Importing Data with Pandas
+Cleaning Data,Data wrangling
+Exploring Data through Visualizations with Seaborn
+
+
+Mostly Used Python Libraries in Notebook:-
+
+Used pandas for data manipulation
+Used matplotlib and Seaborn for data visualization
+USed scikit-learn to build models 
+
+Data Analysis:-
+
+Supervised Machine learning Techniques:
+Logistic Regression Model
+Plotting results
+Support Vector Machine (SVM) using 3 kernels
+Basic Random Forest
+Plotting results
